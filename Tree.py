@@ -159,6 +159,3 @@ def Demo():
     print("Breadth-first traversal:")
     printTrace(a.BFS())
     print("---")
-
-
-Demo()
